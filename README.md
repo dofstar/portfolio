@@ -8,3 +8,11 @@ A place to describe my technical content
 4. C
 5. WASM
 6. Golang
+
+# Database
+Radis, SQLite, PostgreSQL, MySql, Oracle, MS-SQL
+
+# 기타
+Node Version Manager : fnm, volte
+bundler : Turbo, Vite
+상태관리 : pinia
